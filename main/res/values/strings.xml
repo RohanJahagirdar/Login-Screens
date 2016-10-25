@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login Screens</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_login">Login</string>
+    <string name="email_hint">email</string>
+
+</resources>
